@@ -1,0 +1,43 @@
+p{
+    color:blue;
+    background-color: gray;
+    font-size: 0.4cm;
+}
+*{
+    background-color: rgba(54, 97, 114, 0.747);
+    font-family: sans-serif;
+}
+h1{
+    background-color: antiquewhite;
+    font-family: Papyrus;
+}
+#p1{
+    color:brown;
+    background-color: cadetblue;
+    font-size: 1.4cm;
+    text-align: right;
+}
+#p2{
+    color: rgb(182, 182, 20);
+    background-color: white;
+    font-size: 1cm;
+    text-align: left;
+}
+h1:hover{
+    color:blueviolet;
+    font-size: 1.1cm;
+}
+.d1{
+        background-color: white;
+        color:black;
+        text-align: left;
+}
+a{
+    color:purple;
+    text-align: left;
+}
+a:hover{
+    background-color: white;
+    color:rgb(117, 1, 1);
+    font-size: 2cm;
+}

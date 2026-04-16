@@ -1,0 +1,139 @@
+body{
+    background-color: lightgray;
+}
+table{
+    border: dashed red 3px;
+}
+th, td{
+    border: solid 1px red;
+    font-weight: normal;
+    padding: 5px;
+}
+iframe{
+    height: 400px;
+    width: 400px;
+    display: inline;
+    border: none;
+}
+p{
+    color: indigo;
+    font-size: 20pt;
+    font-family: sans-serif;
+    text-align: center;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.headline{
+    text-align: center;
+    color:darkgreen;
+    border: solid darkblue 3px;
+    background-color: bisque;
+    padding: 100px;
+}
+#img1{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+#img2{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    right: 40px ;
+}
+.menu{
+    background-color: lightskyblue;
+    text-align: center;
+    color: darkred;
+    padding: 20px;
+    position: relative;
+    top: -22px;
+}
+#HOME{
+    position: relative;
+    margin: 80px;
+}
+#LIVROS{
+    position: relative;
+    margin: 80px;
+}
+#CONTATOS{
+    position: relative;
+    margin: 80px;
+    
+}
+#VIDEOS{
+    position: relative;
+    margin: 80px;
+}
+#Introdução{
+    position: relative;
+    top: -20px;
+}
+.imggroup{
+    display: inline;
+    height: 600px;
+    width: 500px;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.embed{
+    margin-left: 500px;
+}
+#iframe1{
+    padding-right: 50px;
+}
+#iframe2{
+    padding-left: 50px;
+}
+.trtype{
+    color: red;
+}
+.table1{
+    margin: auto;
+}
+.lista{
+    background-color: yellow;
+    width: 450px;
+    height: 100px;
+    margin-left: 700px;
+}
+.links{
+    display: block;
+    position: relative;
+    left: 80px;
+    top: -35px;
+    color: darkred;
+}
+#final{
+    font-family: Comic Sans MS;
+    text-align: center;
+    font-size: 15pt;
+    color: black;
+    background-color: bisque;
+    padding: 70px
+}   
+#img3{
+    height: 130px;
+    width: 100px;
+    position: absolute;
+    top: 2373px;
+    right: 40px;
+}
+#img4{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 2373px;
+    left: 25px;
+}
