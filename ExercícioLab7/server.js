@@ -8,3 +8,7 @@ var server = http.createServer(app);
 server.listen(80);
 
 console.log("Servidor Ativo...")
+
+app.get("/", function(req, res){
+    res.redirect("Main.html");
+})

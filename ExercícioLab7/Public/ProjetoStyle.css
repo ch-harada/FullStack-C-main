@@ -14,11 +14,12 @@ body{
 
 .FullStack{
     background-color: rgba(65, 65, 65, 0.212);
-    padding: 10px;
+    padding: 15px;
     border-radius: 20px;
     font-family: sans-serif;
-    height: 500px;
+    height: 550px;
     width: 450px;
+    margin: 10px;
 }
 .Outros{
     background-color: rgba(65, 65, 65, 0.212);
@@ -85,62 +86,5 @@ body{
     display: none;
 }
 .Projeto1F:hover .proj1f{
-    display: inline;
-}
-
-.Projeto2F{
-    display: flex;
-    align-items: center;
-    margin: 10px;
-    padding: 5px;
-    width: 410px;
-    height: 60px;
-    font-family: sans-serif;
-}
-
-.Projeto2F:hover {
-    background-color: antiquewhite;
-    border-radius: 20px;
-    display: flex;
-    gap: 5px;
-    box-shadow: 0 0 20px white;
-}
-
-.Projeto2F .proj2f{
-    display: none;
-}
-.Projeto2F:hover h2{
-    display: none;
-}
-.Projeto2F:hover .proj2f{
-    display: inline;
-}
-
-
-.Projeto3F{
-    display: flex;
-    align-items: center;
-    margin: 10px;
-    padding: 5px;
-    width: 410px;
-    height: 60px;
-    font-family: sans-serif;
-}
-
-.Projeto3F:hover {
-    background-color: antiquewhite;
-    border-radius: 20px;
-    display: flex;
-    gap: 5px;
-    box-shadow: 0 0 20px white;
-}
-
-.Projeto3F .proj3f{
-    display: none;
-}
-.Projeto3F:hover h2{
-    display: none;
-}
-.Projeto3F:hover .proj3f{
     display: inline;
 }
